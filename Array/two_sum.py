@@ -9,8 +9,6 @@ class Solution:
                     return i,j
 
 numbers = [1,2,3,4,5]
-
 target = 5
-
 two_sum_inp = Solution()
 print(two_sum_inp.twoSum(numbers,target))
